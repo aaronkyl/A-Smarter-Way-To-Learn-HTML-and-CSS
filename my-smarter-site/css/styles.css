@@ -14,9 +14,30 @@ p.spaced {
     line-height: 1.8em; /* 1.2 is normal */
 }
 
+p.pretty {
+    text-align: justify;
+}
+
+p.indented {
+    text-indent: 1em;
+}
+
+p.margined {
+    margin: 3em;
+}
+
 h1 {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 2em;
+}
+
+h3 {
+    text-align: center;
+}
+
+blockquote {
+    font-size: .75em;
+    color: slategray;
 }
 
 .typewriter {
@@ -29,4 +50,8 @@ h1 {
 
 .red-text {
     color: red;
+}
+
+.violet-border {
+    border: 2px solid violet;
 }
