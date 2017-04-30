@@ -5,9 +5,28 @@ p {
 
 p.important {
     font-size: 1.5em;
+    font-weight: 900;
+}
+
+p.spaced {
+    letter-spacing: .2em;
+    word-spacing: .3em;
+    line-height: 1.8em; /* 1.2 is normal */
 }
 
 h1 {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 2em;
+}
+
+.typewriter {
+    font-family: "Courier New", Courier, monospace;
+}
+
+.italicized {
+    font-style: italic;
+}
+
+.red-text {
+    color: red;
 }
