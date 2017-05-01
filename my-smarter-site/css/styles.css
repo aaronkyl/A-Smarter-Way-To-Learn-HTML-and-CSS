@@ -35,6 +35,10 @@ h3 {
     text-align: center;
 }
 
+h4, p.centered {
+    text-align: center;
+}
+
 blockquote {
     font-size: .75em;
     color: slategray;
@@ -54,4 +58,5 @@ blockquote {
 
 .violet-border {
     border: 2px solid violet;
+    padding: 2em;
 }
