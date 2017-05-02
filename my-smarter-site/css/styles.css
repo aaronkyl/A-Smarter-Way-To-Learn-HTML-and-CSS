@@ -35,6 +35,11 @@ h2#orange-text {
     color: orange;
 }
 
+div#special {
+    margin: 0 3em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 h3 {
     text-align: center;
 }
