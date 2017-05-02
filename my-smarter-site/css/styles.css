@@ -31,6 +31,10 @@ h1 {
     font-size: 2em;
 }
 
+h2#orange-text {
+    color: orange;
+}
+
 h3 {
     text-align: center;
 }
