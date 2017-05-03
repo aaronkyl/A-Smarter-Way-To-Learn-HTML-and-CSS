@@ -26,6 +26,10 @@ p.margined {
     margin: 3em;
 }
 
+img.block {
+    display: block;
+}
+
 h1 {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 2em;
