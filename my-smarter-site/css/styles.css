@@ -26,8 +26,26 @@ p.margined {
     margin: 3em;
 }
 
+p.clear {
+    clear: both;
+}
+
 img.block {
     display: block;
+}
+
+img.right {
+    margin-left: 5em;
+}
+
+img.centered {
+    display: block;
+    margin: 0 auto;
+}
+
+img.wrap {
+    float: left;
+    margin: 0 .75em .5em 0;
 }
 
 h1 {
