@@ -70,6 +70,10 @@ div#special {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+div#special p {
+    font-size: 2em;
+}
+
 h3 {
     text-align: center;
 }
@@ -81,6 +85,19 @@ h4, p.centered {
 blockquote {
     font-size: .75em;
     color: slategray;
+}
+
+li {
+    margin-bottom: .75em;
+}
+
+ul {
+    list-style-position: inside;
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: lower-roman;
 }
 
 .typewriter {
